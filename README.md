@@ -1,1 +1,2 @@
-# Liu-Hui-s-algorithm
+# Liu Hui's algorithm
+Implementaton of Liu Hui's algorithm. 
